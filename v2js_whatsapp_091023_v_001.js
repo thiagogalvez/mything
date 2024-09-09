@@ -124,7 +124,7 @@ function criarBarra(var_nome, var_avatar) {
       link.id   = cssId;
       link.rel  = 'stylesheet';
       link.type = 'text/css';
-      link.href = 'https://drive.google.com/uc?export=download&id=1W7DfOP4VJ13Wn0lxlNYDIXC4LcF549NW';
+      link.href = 'https://raw.githubusercontent.com/thiagogalvez/mything/main/v2style_whatsapp_091020_v_001.css';
       link.media = 'all';
       head.appendChild(link);
     }
